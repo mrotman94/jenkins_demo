@@ -1,2 +1,3 @@
-wiwhatr
-kuchh bhi to nahi
+#!/bin/bash
+
+echo "I'm usman"
